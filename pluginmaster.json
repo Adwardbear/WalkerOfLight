@@ -1,21 +1,23 @@
-{
-    "Author": "Adward Bear",
-    "Name": "Walker of Light",
-    "InternalName": "WalkerOfLight",
-    "AssemblyVersion": "0.0.1.0",
-    "Description": "Get your daily steps in with your Warrior of Light.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Adwardbear/WalkerOfLight",
-    "Tags": [
-        "walking",
-        "treadmill"
-    ],
-    "DalamudApiLevel": 15,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Let's go walking!",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Adwardbear/WalkerOfLight/releases/download/v0.0.1.0/latest.zip"
-}
+[
+    {
+        "Author": "Adward Bear",
+        "Name": "Walker of Light",
+        "InternalName": "WalkerOfLight",
+        "AssemblyVersion": "0.0.1.0",
+        "Description": "Get your daily steps in with your Warrior of Light.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Adwardbear/WalkerOfLight",
+        "Tags": [
+            "walking",
+            "treadmill"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "Let's go walking!",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/Adwardbear/WalkerOfLight/releases/download/v0.0.1.0/latest.zip"
+    }
+]
