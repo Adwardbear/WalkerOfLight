@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>0.0.1.0</Version>
+    <!-- Manifest fields (see https://github.com/goatcorp/DalamudPackager/blob/827d88dc/DalamudPackager/DalamudPackager.cs#L420) -->
+    <Author>Adward Bear</Author>
+    <Name>Walker of Light</Name>
+    <Punchline>Let's go walking!</Punchline>
+    <Description>Get your daily steps in with your Warrior of Light.</Description>
+    <RepoUrl>https://github.com/Adwardbear/WalkerOfLight</RepoUrl>
+    <Tags>walking;treadmill</Tags>
+  </PropertyGroup>
+</Project>
